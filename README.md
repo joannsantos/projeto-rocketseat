@@ -1,0 +1,1 @@
+Este é um projeto simples desenvolvido com HTML, CSS e JavaScript, criado com o objetivo de aprendizado e prática. O projeto não tem uma finalidade específica além de servir como laboratório para experimentar e entender melhor essas tecnologias web.
